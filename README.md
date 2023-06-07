@@ -97,6 +97,7 @@ public class DetectCollider : MonoBehaviour
 
 ~~~
 ## Output:
-![p](phase2op.png)
+![Screenshot (23)](https://github.com/Thiru-AI/Animal-Feeding-Phase-II/assets/94980741/5d5811a4-5bf8-47bc-9ade-8cd929880059)
+
 ## Result:
 Thus,The Animal feeding game-Phase-2 using unity engine is developed successfully.
